@@ -30,11 +30,7 @@ emcenter.on("my_event", (e, ...args) => {});
 emcenter.emit("my_event", arg1, arg2);
 ```
 
-好的，以下是将注释翻译成中文的代码文档：
-
----
-
-## API
+## API方法
 
 ### on(event, callback, priority?)
 
